@@ -23,3 +23,6 @@ vim.opt.updatetime = 50
 
 vim.g.mapleader = " "
 
+-- netrw for latest vim versions
+-- vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+
